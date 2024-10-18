@@ -1,5 +1,4 @@
 package com.example.calculator;
-
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
